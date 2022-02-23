@@ -27,6 +27,29 @@ var l_bgVideo = true;
 // (You can also use external URL)
 var l_background = "myabstract.webm";
 
+/*(Image-background only)
+Place one or more images
+Multiple images will automatically shuffle between them*/
+var l_bgImages = [
+	"backgrounds/images/alice.jpg",
+	"backgrounds/images/alice02.jpg",
+	"backgrounds/images/alice03.jpg",
+        "backgrounds/images/alice04.jpg"
+];
+
+/*Random background images order?*/
+var l_bgImagesRandom = true;
+
+/*(Image-background only)
+Delay between background images changes
+in milliseconds*/
+var l_bgImageDuration = 5000;
+
+/*(Image-background only)
+Image background fade velocity
+in milliseconds*/
+var l_bgImageFadeVelocity = 2000;
+
 // Enable background overlay?
 // 'true' or 'false'
 var l_bgOverlay = false;
