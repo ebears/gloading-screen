@@ -94,7 +94,12 @@ var l_musicPlaylist = [
 	{ogg: "World 5 - Amusement Park.ogg", name: "Super Monkey Ball 2 - World 5: Amusement Park"},
 	{ogg: "World 10 - Dr. Bad Boon's Base.ogg", name: "Super Monkey Ball 2 - World 10: Dr. Bad Boon's Base"},
 	{ogg: "Targets!.ogg", name: "Super Smash Bros. Melee - Targets!"},
-	{youtube: "https://www.youtube.com/watch?v=3SjGGQuUOh4", name: "Diddy Kong Racing - Darkmoon Caverns"},
+	{ogg: "Cryptic Relics.ogg", name: "Ape Escape - Cryptic Relics"},
+	{ogg: "Molten Lava (t-rex).ogg", name: "Ape Escape - Molten Lava (T-Rex)"},
+	{ogg: "Snowy Mammoth.ogg", name: "Ape Escape - Snowy Mammoth"},
+	{ogg: "Stadium Attack.ogg", name: "Ape Escape - Stadium Attack"},
+	{ogg: "Time Station.ogg", name: "Ape Escape - Time Station"},
+	{youtube: "https://www.youtube.com/watch?v=Q8DGFuM9Z3A", name: "Diddy Kong Racing - Darkmoon Caverns"},
 ];
 
 // Random music order?
