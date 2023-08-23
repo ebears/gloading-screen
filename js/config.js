@@ -119,6 +119,7 @@ var l_musicPlaylist = [
 	{ogg: "Stadium Attack.ogg", name: "Ape Escape - Stadium Attack"},
 	{ogg: "Time Station.ogg", name: "Ape Escape - Time Station"},
 	{youtube: "https://www.youtube.com/watch?v=Q8DGFuM9Z3A", name: "Diddy Kong Racing - Darkmoon Caverns"},
+	{youtube: "https://www.youtube.com/watch?v=vvqV6sAYva0", name: "Bomberman - Bomberman Theme [cover by clairebun]"},
 ];
 
 // Random music order?
